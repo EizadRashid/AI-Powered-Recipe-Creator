@@ -5,7 +5,7 @@ import requests
 from io import BytesIO
 
 # Initialize OpenAI client
-openai_api_key = st.secrets["OPENAI_SECRET_KEY"]
+openai_secret_key = st.secrets["OPENAI_SECRET_KEY"]
 client = OpenAI(api_key=st.secrets['OPENAI_SECRET_KEY'])
 
 def recipes_generation(ingredients):
