@@ -17,13 +17,16 @@ I'm Eizad, a part-time logistics professional and an enthusiastic developer. Cur
 
 ## Demo
 ### Main Interface
-![image](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/4759be1f-40e9-44fd-bb7d-ffacc521d183)
+![Screenshot 2024-07-07 151647](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/7555a938-7f59-40db-9cef-26bd488c6b9b)
+
 ### Ingredients Prompt
-![image](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/bc66c3d6-cfaa-4971-9648-d2572a506b41)
-![image](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/0eb16e6b-73d7-411f-8509-3bf172565e8d)
+![Screenshot 2024-07-07 151756](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/d8774764-784f-4815-8232-0673bd916b17)
+![Screenshot 2024-07-07 151846](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/ef9dd822-6e09-42cc-9241-0a3436750f84)
+
 ### Dish Prompt
-![image](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/7feae335-d647-4974-a029-403154ad5592)
-![image](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/3b91392f-18b8-44f8-904d-058219759ff3)
+![Screenshot 2024-07-07 151947](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/89f74986-7464-47b4-9f16-01a5d47c016d)
+![Screenshot 2024-07-07 152009](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/37da4477-b47f-45e8-956b-3cc26da68fb4)
+
 
 ### Demo Link: 
 
