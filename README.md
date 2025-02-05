@@ -28,7 +28,7 @@ I'm Eizad, a part-time logistics professional and an enthusiastic developer. Cur
 ![Screenshot 2024-07-07 152009](https://github.com/EizadRashid/AI-Powered-Recipe-Creator/assets/174173959/37da4477-b47f-45e8-956b-3cc26da68fb4)
 
 
-### Demo Link: 
+
 
 
 
